@@ -6,18 +6,17 @@ app.config ['$stateProvider', '$urlRouterProvider', '$locationProvider', ($state
 		.state 'view',
 			url: '/view'
 			templateUrl: 'view.html'
-			controller: 'viewCtrl'
+			controller: 'menuCtrl'
 		.state 'edit',
 			url: '/edit'
 			templateUrl: 'edit.html'
-			controller: 'editCtrl'
+			controller: 'menuCtrl'
 			
 	$urlRouterProvider.otherwise '/view'
 	$locationProvider.html5Mode true
 ]
 
-app.controller 'viewCtrl', ['$scope', '$http', ($scope, $http) ->
-	console.log "hello"
+app.controller 'menuCtrl', ['$scope', '$http', ($scope, $http) ->
 	$http.get('/api/menu')
 		.success (data, status, headers, config) ->
 			console.log "got menu:"
@@ -25,7 +24,23 @@ app.controller 'viewCtrl', ['$scope', '$http', ($scope, $http) ->
 			$scope.menu = data
 		.error (data, status, headers, config) ->
 			console.log "error getting menu"
-]
 
-app.controller 'editCtrl', ['$scope', '$http', ($scope, $http) ->
+	$scope.addItem = (group) ->
+		group.items.push {}
+
+	$scope.deleteItem = (group, item) ->
+		_.remove group.items, (i) -> i == item
+	
+	$scope.itemUp = (group, item) ->
+		group.items.move item, -1
+
+	$scope.itemDown = (group, item) ->
+		group.items.move item, 1
+	
+	$scope.save = () ->
+		$http.post('/api/menu', $scope.menu)
+			.success (data, status, headers, config) ->
+				console.log "saved menu"
+			.error (data, status, headers, config) ->
+				console.log "error saving menu"
 ]

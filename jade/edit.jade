@@ -1,1 +1,34 @@
-TODO EDIT
+.container
+	.row
+		button.btn.btn-success.form-control(ng-click="save()") Speichern
+
+		form.form-inline(ng-repeat="group in menu.groups")
+			input.menu-edit-group-name.form-control(type="text", ng-model="group.name", placeholder="Gruppen-Name")
+
+			.menu-edit-group(ng-repeat="item in group.items")
+				button.btn.btn-default(ng-click="itemUp(group, item)")
+					span.glyphicon.glyphicon-chevron-up 		
+				button.btn.btn-default(ng-click="itemDown(group, item)")
+					span.glyphicon.glyphicon-chevron-down 		
+				input.form-control.menu-edit-item-name(type="text", ng-model="item.name", placeholder="Name des Gerichts")
+				input.form-control.menu-edit-item-description(type="text", ng-model="item.description", placeholder="Beschreibung")
+				input.form-control.menu-edit-item-price(type="text", ng-model="item.price", placeholder="Preis")
+				.checkbox
+					label
+						input(type="checkbox", ng-model="item.hidePrice") 
+						span.glyphicon.glyphicon-euro
+				.checkbox
+					label
+						input(type="checkbox", ng-model="item.special") 
+						span.glyphicon.glyphicon-star
+				.checkbox
+					label
+						input(type="checkbox", ng-model="item.hide") 
+						span.glyphicon.glyphicon-eye-open
+				button.btn.btn-danger(ng-click="deleteItem(group, item)")
+					span.glyphicon.glyphicon-trash 		
+
+			button.btn.btn-primary.form-control.add-item-button(ng-click="addItem(group)")
+				span.glyphicon.glyphicon-plus
+
+		button.btn.btn-success.form-control(ng-click="save()") Speichern
