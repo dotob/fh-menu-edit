@@ -1,0 +1,25 @@
+{
+  "name": "fh-menu-editor",
+  "version": "0.0.1",
+  "authors": [
+    "dotob <sk@dotob.de>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "angular": "~1.4.1",
+    "angular-ui-router": "~0.2.15"
+  },
+  "overrides": {
+    "angular": {
+      "main": "angular.js",
+      "dependencies": {
+        "jquery": "*"
+      }
+    }
+  }
+}

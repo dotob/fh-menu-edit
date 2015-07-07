@@ -1,0 +1,10 @@
+#om_menu
+	.menu_name {{menu.name}}
+	.menu_content
+		h2(ng-repeat="group in menu.groups") {{ group.name }}
+			dl(ng-repeat="item in group.items", ng-hide="item.disabled")
+				dt.pepper_ 
+					span.item_tag.special(ng-if="item.special") Special
+					| {{ item.name }}
+				dd.price {{ item.price }}
+				dd.description {{ item.description }}

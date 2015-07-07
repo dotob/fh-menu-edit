@@ -1,0 +1,476 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+    <menu uid="1" name="a la carte" currency_symbol="EUR">
+      <menu_description></menu_description>
+      <menu_groups>
+        <menu_group uid="00000000-0000-0000-0000-000000000000" name=" Vorspeisen">
+          <menu_group_description></menu_group_description>
+          <menu_items>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>6 zeeländische Austern (creuses) frisch aus unserem Salzwasserbecken</menu_item_name>
+              <menu_item_description>auf Eis gebettet</menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Duo von hausgeräuchertem und hausgebeiztem Lachs </menu_item_name>
+              <menu_item_description>mit Honig-Dillvinaigrette</menu_item_description>
+              <menu_item_price>11.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Riesenscampi kross im Ofen gebraten</menu_item_name>
+              <menu_item_description>auf Räucherlachsbett</menu_item_description>
+              <menu_item_price>14.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Unsere Wildpastete </menu_item_name>
+              <menu_item_description>mit Preiselbeeren und Zwiebelmarmelade</menu_item_description>
+              <menu_item_price>12</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Pikant gebratene Scampis</menu_item_name>
+              <menu_item_description>auf sommerlichem Salat</menu_item_description>
+              <menu_item_price>15</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name> Bunter Salat mit hausgeräuchertem Lachs und geräucherter Forelle</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>10</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Salat mit knusprig gebratenem Entenconfit </menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Gebackener Ziegenkäse auf Salatbett</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>11.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Unsere Hummersuppe mit Sahnehäubchen</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>9.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Klare Ochsenschwanzsuppe</menu_item_name>
+              <menu_item_description>mit Sherry</menu_item_description>
+              <menu_item_price>6.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Thailändische Gemüsebouillon </menu_item_name>
+              <menu_item_description>mit dünnen Scheiben würzigem Schweinefilet und Scampis</menu_item_description>
+              <menu_item_price>9.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Vitello Tonnato (erfrischende kalte ital. Vorspeise)</menu_item_name>
+              <menu_item_description>dünne Scheiben gekochtes Kalbsfleisch mit Thunfischsauce und Kapern</menu_item_description>
+              <menu_item_price>14</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Terrine  Nordseefischsuppe</menu_item_name>
+              <menu_item_description>mit Rouille und Croutons</menu_item_description>
+              <menu_item_price>9.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Froschschenkel kross in Knoblauchbutter gebraten</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>1/2 Dz. Schnecken auf burgunder Art</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>12</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Krevettenkroketten wie in Oostende</menu_item_name>
+              <menu_item_description>mit frittierter Petersilie und Remouladensauce</menu_item_description>
+              <menu_item_price>12.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Steinpilzravioli </menu_item_name>
+              <menu_item_description>mit "Morchel-Trüffel" beurre blanc</menu_item_description>
+              <menu_item_price>10.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Gebratene Jakobsmuscheln </menu_item_name>
+              <menu_item_description>mit Gemüsegirlanden und beurre blanc</menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Burgunder Töpfchen</menu_item_name>
+              <menu_item_description>mit gebratener Entenstopfleber, pochiertem Ei und Brioche</menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Grüner Spargel auf mediterrane Art</menu_item_name>
+              <menu_item_description> mit sonnengetrockneten Tomaten, Oliven und Gran Padano </menu_item_description>
+              <menu_item_price>12.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Hausgemachte Entenstopfleber mit Sauternesgelée</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>10</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Hummer aus unserem Becken, ein Ganzer oder 2 Halbe,</menu_item_name>
+              <menu_item_description>gegrillt mit beurre blanc oder gedünstet in Whiskyrahm-als Vorspeise oder als Hauptgericht-</menu_item_description>
+              <menu_item_price>50</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Hausgemachte Hechtklößchen </menu_item_name>
+              <menu_item_description>mit Hummersauce</menu_item_description>
+              <menu_item_price>11.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Spargelcremesuppe</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>6.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spargel wie im Périgord</menu_item_name>
+              <menu_item_description>mit Entenstopfleberlamellen und Morchel-Trüffelcreme</menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Provenzalische Terrine von frischem Ziegenkäse</menu_item_name>
+              <menu_item_description>Tomaten und Paprika an Pestovinaigrette</menu_item_description>
+              <menu_item_price>10.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Kresseschaumsuppe mit Miesmuscheln</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>9</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Scampis à la Newburg</menu_item_name>
+              <menu_item_description>in Rahmsauce mit Cognac und Madeira flambiert</menu_item_description>
+              <menu_item_price>15</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spargel in knuspriger Blätterteigschnitte</menu_item_name>
+              <menu_item_description>mit sauce hollandaise</menu_item_description>
+              <menu_item_price>12.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Trüffel-Ricottaravioli</menu_item_name>
+              <menu_item_description>mit Kalbsfonds-Morcheljus</menu_item_description>
+              <menu_item_price>12</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Crème brulée von der Entenstopfleber</menu_item_name>
+              <menu_item_description>mit Confitpralinen</menu_item_description>
+              <menu_item_price>11.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Kaninchenrücken und Austernpilze in Aspik</menu_item_name>
+              <menu_item_description>an Puy-Linsencreme </menu_item_description>
+              <menu_item_price>11.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>und vieles mehr...</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>0</menu_item_price>
+            </menu_item>
+          </menu_items>
+        </menu_group>
+        <menu_group uid="2" name="Hauptgerichte">
+          <menu_group_description></menu_group_description>
+          <menu_items>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Würziges Ragout von Lamm und Frühlingsgemüsen</menu_item_name>
+              <menu_item_description>mit fritierten Kartoffeln</menu_item_description>
+              <menu_item_price>17</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Lammfilet in Pestokruste</menu_item_name>
+              <menu_item_description>mit Rotweinsauce, Ratatouille und Gratin dauphinois</menu_item_description>
+              <menu_item_price>24.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Lammfilet in Pestokruste als kleinere Portion</menu_item_name>
+              <menu_item_description>mit Rotweinsauce, Ratatouille und Gratin dauphinois</menu_item_description>
+              <menu_item_price>19.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spargel</menu_item_name>
+              <menu_item_description>mit frischem Lachs und Orangenbutter,Salzkartoffel</menu_item_description>
+              <menu_item_price>22.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spargel mit einem kleinen panierten Schnitzel vom Kalbsrücken</menu_item_name>
+              <menu_item_description>auf flämische Art oder mit sauce hollandaise, Salzkartoffel</menu_item_description>
+              <menu_item_price>24.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Spargel mit gekochtem Knochenschinken</menu_item_name>
+              <menu_item_description>auf flämische Art oder mit sauce hollandaise und  Salzkartoffeln</menu_item_description>
+              <menu_item_price>22.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Rumpsteak mit der echten "sauce Béarnaise"</menu_item_name>
+              <menu_item_description>oder mit grünem Pfeffer oder mit Senfsauce, Pommes frites und Salat</menu_item_description>
+              <menu_item_price>22</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spargel wie im Périgord</menu_item_name>
+              <menu_item_description>mit Lamellen von der Entenstopfleber und Morchel -Trüffelcreme</menu_item_description>
+              <menu_item_price>21</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Cordon bleu mit Pommes frites und gemischtem Salat</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>16</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Ricotta-Ravioli </menu_item_name>
+              <menu_item_description>mit mediterraner Tomatensauce</menu_item_description>
+              <menu_item_price>12.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Lammrücken </menu_item_name>
+              <menu_item_description>mit feinen Gemüsen, Gratin dauphinois und Rotweinsauce, ab 2 Personen, je Person</menu_item_description>
+              <menu_item_price>27.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="3" disabled="disabled" special="special">
+              <menu_item_name>Seezunge Müllerin Art</menu_item_name>
+              <menu_item_description> knusprig in Butter gebraten, Blattspinat und Salzkartoffel</menu_item_description>
+              <menu_item_price>36</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Forelle blau oder Müllerin Art</menu_item_name>
+              <menu_item_description>frisch aus unserem Becken, bunter Salat, zerlassene Butter, Salzkatoffel</menu_item_description>
+              <menu_item_price>16.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Salm in Sauerampferrahm</menu_item_name>
+              <menu_item_description>mit Pommes duchesse</menu_item_description>
+              <menu_item_price>17.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Kalbsnierchen auf Lütticher Art</menu_item_name>
+              <menu_item_description>in Wacholdersauce mit Speckbohnenröllchen und Pellkartoffeln</menu_item_description>
+              <menu_item_price>20.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Delikatessen aus dem Périgord auf Salatbett mit Zwiebelmarmelade</menu_item_name>
+              <menu_item_description>Entenconfit, geräucherter Entenbrust und Entenstopfleber </menu_item_description>
+              <menu_item_price>24</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Pochierter Rochen "andalusisch"mit Stampfkartoffeln,</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>23.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Claressefilet in Sesamkruste mit Curry-Kokossößchen,</menu_item_name>
+              <menu_item_description>Gemüsestreifen und Basmati -Reis</menu_item_description>
+              <menu_item_price>20.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Rinderragout in" Leffe brune" ( Abteibier) geschmort</menu_item_name>
+              <menu_item_description>mit Pommes frites und gemischtem Salat</menu_item_description>
+              <menu_item_price>17</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Chateaubriand vom Rinderrücken mit Sauce béarnaise,</menu_item_name>
+              <menu_item_description>Pommes frites und feinen Gemüsen, ab 2 Pesrsonen, pro Person</menu_item_description>
+              <menu_item_price>27.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Steak vom Angus Beef mit Fettrand, einer Tüte pommes "pont neuf" </menu_item_name>
+              <menu_item_description>kräftiger Rotwein-Kalbsfondssauce und gegrillten Schalotten</menu_item_description>
+              <menu_item_price>24.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Kalbsmedaillon an Zitronensalbei-Buttersuace</menu_item_name>
+              <menu_item_description>mit Speckbohnenröllchen, überbackener Tomate und Grenailleskartoffeln</menu_item_description>
+              <menu_item_price>21.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Petersfisch </menu_item_name>
+              <menu_item_description>in Paprika - Dillbuttersauce, Pommes duchesse</menu_item_description>
+              <menu_item_price>19.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Kabeljaurückensteak</menu_item_name>
+              <menu_item_description>in Lauchrahm mit Stampfkartoffeln</menu_item_description>
+              <menu_item_price>24.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Hirschkalbragout</menu_item_name>
+              <menu_item_description>mit Mandeln, Apfelkompott und Kartoffelkroketten</menu_item_description>
+              <menu_item_price>18.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Wildschweinfilet an Wacholder-Wildfondssauce</menu_item_name>
+              <menu_item_description>mit Wirsing und Stampfkartoffeln</menu_item_description>
+              <menu_item_price>23.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Medaillons vom Hirschkalbrücken  mit Pfifferlingrahm,</menu_item_name>
+              <menu_item_description> Preiselbeerkörbchen und hausgemachten Kartoffelkroketten</menu_item_description>
+              <menu_item_price>27.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Medaillon vom Hirschkalbrücken ( kleinere Portion) mit Pfifferlingrahm,</menu_item_name>
+              <menu_item_description>Preiselbeerkörbchen und hausgemachten Kartoffelkroketten</menu_item_description>
+              <menu_item_price>21.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Gespickter Hasenrücken an würziger Wildsauce, Chicorée und  Kartoffelroketten</menu_item_name>
+              <menu_item_description>für Sie am Tisch zerlegt für 2 Personen</menu_item_description>
+              <menu_item_price>48</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Confit von der Gänsekeule, kross und knusprig mit sauce Dijonnaise</menu_item_name>
+              <menu_item_description>Rotkohl und Kartoffelkroketten</menu_item_description>
+              <menu_item_price>23.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Bouillabaisse mit "rouille" und Knoblauchcroutons</menu_item_name>
+              <menu_item_description>reichhaltige Fischsuppe aus Marseille</menu_item_description>
+              <menu_item_price>23.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Medaillon vom Hirschkalbrücken an Wacholder-Wildfondssauce</menu_item_name>
+              <menu_item_description>mit Chicorée und Stampfkartoffeln</menu_item_description>
+              <menu_item_price>26</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Osso bucco (Kalbshaxe auf italienische Art)</menu_item_name>
+              <menu_item_description>in Tomatensauce mit  Gemüsewürfeln und frischen Nudeln</menu_item_description>
+              <menu_item_price>19.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Kalbsmedaillon mit Champignonrahmsauce</menu_item_name>
+              <menu_item_description>Pommes frites, Brokkoli und überbackener Tomate</menu_item_description>
+              <menu_item_price>21</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Hausgemachte Mousáka</menu_item_name>
+              <menu_item_description>griechisches Auflaufgericht mit viel Gemüse, Lammgehacktem und Béchamelsauce</menu_item_description>
+              <menu_item_price>13.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Scampispieß auf provenzalische Art</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>15</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Lammkeule in Rotwein geschmort</menu_item_name>
+              <menu_item_description>mit Kartoffel -Gemüsekuchen</menu_item_description>
+              <menu_item_price>21.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Auf der Haut gebratenes Zandefilet</menu_item_name>
+              <menu_item_description>in schaumiger Rosmarinbutter mit Frühlingsgemüsen und Pellkartoffeln</menu_item_description>
+              <menu_item_price>20.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Schnitzel nach Wiener Art</menu_item_name>
+              <menu_item_description>Pommes frites und gemischter Salat</menu_item_description>
+              <menu_item_price>14</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Gebratener Thunfisch </menu_item_name>
+              <menu_item_description>mit Safransauce, grünen Bohnen und Tagliatelli nero di seppia</menu_item_description>
+              <menu_item_price>24.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Kalbszunge mit Madeirasauce</menu_item_name>
+              <menu_item_description>feinen Erbsen unsd Salzkartoffeln</menu_item_description>
+              <menu_item_price>20.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Spieß von Schwertfisch und Scampi an Limettensauce</menu_item_name>
+              <menu_item_description>mir Reis</menu_item_description>
+              <menu_item_price>21.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>und vieles mehr...</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>0</menu_item_price>
+            </menu_item>
+          </menu_items>
+        </menu_group>
+        <menu_group uid="3" name="Dessert">
+          <menu_group_description></menu_group_description>
+          <menu_items>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Hausgemachte Cassata mit Passionsfruchtsauce</menu_item_name>
+              <menu_item_description>(sizilianische Eistorte mit kandierten Früchten und Nüssen)</menu_item_description>
+              <menu_item_price>8.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="4" special="special">
+              <menu_item_name>Crépes Suzettes</menu_item_name>
+              <menu_item_description>am Tisch flambiert, ab zwei Personen, je Person</menu_item_description>
+              <menu_item_price>8.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>Sabayon</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>8</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Dame blanche </menu_item_name>
+              <menu_item_description>Vanilleeis mit heißer belgischer Schokolade und Sahne</menu_item_description>
+              <menu_item_price>8</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Rote Grütze</menu_item_name>
+              <menu_item_description>mit Vanilleeis und Sahne</menu_item_description>
+              <menu_item_price>7.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Crème brulée</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>7.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name> Eiskaffee auf "Lütticher Art"</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>7</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>Espressogedeck</menu_item_name>
+              <menu_item_description>Espresso mit Sahnehäubchen und einem Gläschen Calvados oder Benedictinelikör</menu_item_description>
+              <menu_item_price>5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Süßer Erdbeertraum</menu_item_name>
+              <menu_item_description>mit Erdbeeren, Marscapone-Limettensahne, Erdbeereis, Baiser und Himbeersauce</menu_item_description>
+              <menu_item_price>8.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Tarte Tatin mit Vanilleeis und einem Schuß Calvados</menu_item_name>
+              <menu_item_description>( warmer gestürzter Apfelkuchen )</menu_item_description>
+              <menu_item_price>8.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" special="special">
+              <menu_item_name>"Fondant au chocolat" mit Karamelleis</menu_item_name>
+              <menu_item_description>warmer Schokoladenkuchen mit flüssigem Kern</menu_item_description>
+              <menu_item_price>8.5</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Eine Scheibe hausgemachtes Rosmarineis mit geschwenkten Pfirsischen</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>8</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled">
+              <menu_item_name>Café Liègeois</menu_item_name>
+              <menu_item_description>mit Baileys</menu_item_description>
+              <menu_item_price>8</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000" disabled="disabled" special="special">
+              <menu_item_name>Beschwipste Trauben mit hausgemachtem Lavendeleis </menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>8</menu_item_price>
+            </menu_item>
+            <menu_item uid="00000000-0000-0000-0000-000000000000">
+              <menu_item_name>und vieles mehr...</menu_item_name>
+              <menu_item_description></menu_item_description>
+              <menu_item_price>0</menu_item_price>
+            </menu_item>
+          </menu_items>
+        </menu_group>
+      </menu_groups>
+    </menu>
