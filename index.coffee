@@ -16,7 +16,7 @@ app.use bodyParser.json()
 app.use bodyParser.urlencoded({ extended: false })
 
 server 	= http.Server app
-port = 3333
+port = 3000
 server.listen port, ->
 	console.log "web server is listening on port #{port}"
 
