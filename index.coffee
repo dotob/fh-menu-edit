@@ -32,9 +32,16 @@ app.get "/api/menu", (req, res) ->
 
 # send new menu
 app.post "/api/menu", (req, res) ->
-	console.log "requested #{req.url}"
-	fs.renameSync menu_file_name, "#{menu_file_name}_#{Date.now().toISOString()}"
-	fs.writeFile menu_file_name, req.body, (err) ->
+	console.log "posted #{req.url}"
+
+	# saveto = "#{menu_file_name}_#{(new Date()).toISOString()}"
+	# if !fs.exists menu_file_name
+	# 	console.log "===================="
+	# fs.renameSync menu_file_name, saveto
+	# console.log "saved data to #{saveto}"
+
+	json = JSON.stringify(req.body, null, 2)
+	fs.writeFile menu_file_name, json, (err) ->
 		if err
 			console.log "error writing menu: #{err}"
 			res.sendStatus(500)
