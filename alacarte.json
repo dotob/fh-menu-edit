@@ -298,7 +298,7 @@
           "name": "und vieles mehr...",
           "price": "0",
           "description": "",
-          "hidePrice": false,
+          "hidePrice": true,
           "hide": false,
           "special": false,
           "vegetarian": false

@@ -6,5 +6,5 @@
 				dt.pepper_(ng-if="!item.hide", ng-repeat-start="item in group.items") 
 					span.item_tag.special(ng-if="item.special") Special
 					| {{ item.name }}
-				dd.price(ng-if="!item.hide || item.hidePrice") {{ item.price }}
+				dd.price(ng-if="!item.hide && !item.hidePrice") {{ item.price }}
 				dd.description(ng-if="!item.hide", ng-repeat-end="") {{ item.description }}
