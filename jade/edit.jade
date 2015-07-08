@@ -14,21 +14,21 @@
 				input.form-control.menu-edit-item-description(type="text", ng-model="item.description", placeholder="Beschreibung")
 				input.form-control.menu-edit-item-price(type="text", ng-model="item.price", placeholder="Preis")
 				.checkbox
-					label
-						input(type="checkbox", ng-model="item.hidePrice") 
+					label(title="Preis anzeigen")
+						input(type="checkbox", ng-model="item.hidePrice", ng-true-value="false", ng-false-value="true") 
 						span.glyphicon.glyphicon-euro
 				.checkbox
-					label
+					label(title="Ist ein Special")
 						input(type="checkbox", ng-model="item.special") 
 						span.glyphicon.glyphicon-star
 				.checkbox
-					label
-						input(type="checkbox", ng-model="item.hide") 
+					label(title="Ausblenden")
+						input(type="checkbox", ng-model="item.hide", ng-true-value="false", ng-false-value="true") 
 						span.glyphicon.glyphicon-eye-open
-				button.btn.btn-danger(ng-click="deleteItem(group, item)")
+				button.btn.btn-danger(ng-click="deleteItem(group, item)", title="Löschen")
 					span.glyphicon.glyphicon-trash 		
 
-			button.btn.btn-primary.form-control.add-item-button(ng-click="addItem(group)")
+			button.btn.btn-primary.form-control.add-item-button(ng-click="addItem(group)", title="Neues Gericht anlegen")
 				span.glyphicon.glyphicon-plus
 
 		button.btn.btn-success.form-control(ng-click="save()") Speichern
