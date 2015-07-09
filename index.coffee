@@ -23,22 +23,20 @@ server.listen port, ->
 # Set the public folder as static assets
 app.use serveStatic path.join(__dirname, 'public')
 
-menu_file_name = 'alacarte.json'
+menu_file_name = path.join(__dirname, 'alacarte.json')
 
 # get menu
 app.get "/api/menu", (req, res) ->
 	console.log "requested #{req.url}"
-	res.sendFile path.join(__dirname, menu_file_name)
+	res.sendFile menu_file_name
 
 # send new menu
 app.post "/api/menu", (req, res) ->
 	console.log "posted #{req.url}"
 
-	# saveto = "#{menu_file_name}_#{(new Date()).toISOString()}"
-	# if !fs.exists menu_file_name
-	# 	console.log "===================="
-	# fs.renameSync menu_file_name, saveto
-	# console.log "saved data to #{saveto}"
+	saveto = "#{menu_file_name}_#{(new Date()).toISOString()}"
+	fs.renameSync menu_file_name, saveto
+	console.log "saved data to #{saveto}"
 
 	json = JSON.stringify(req.body, null, 2)
 	fs.writeFile menu_file_name, json, (err) ->

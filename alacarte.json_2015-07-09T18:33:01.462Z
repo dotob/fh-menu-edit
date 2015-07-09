@@ -34,11 +34,11 @@
           "vegetarian": false
         },
         {
-          "name": "Unsere Wildpastete",
+          "name": "Unsere Wildpastete ",
           "price": "12",
           "description": "mit Preiselbeeren und Zwiebelmarmelade",
           "hidePrice": false,
-          "hide": false,
+          "hide": true,
           "special": true,
           "vegetarian": false
         },
