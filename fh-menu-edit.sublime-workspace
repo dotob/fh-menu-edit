@@ -519,6 +519,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "jade/view.jade",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "jade/edit.jade",
+			"settings":
+			{
+				"buffer_size": 1686,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "alacarte.json",
+			"settings":
+			{
+				"buffer_size": 25741,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -568,7 +592,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 528.0
+		"width": 584.0
 	},
 	"console":
 	{
@@ -590,7 +614,8 @@
 	},
 	"expanded_folders":
 	[
-		"/D/sync/_private/devel/fh-menu-edit"
+		"/Users/basti/Development/angularJs/fh-menu-edit",
+		"/Users/basti/Development/angularJs/fh-menu-edit/jade"
 	],
 	"file_history":
 	[
@@ -740,6 +765,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Ausblenden",
 			"neuCtrl",
 			"mor",
 			"            <menu_item >",
@@ -866,8 +892,7 @@
 			"||",
 			"toBeThruthy()",
 			"recordplaceholder",
-			"6710886",
-			"mockups::Canvas"
+			"6710886"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -963,8 +988,96 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "jade/view.jade",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								336,
+								336
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "jade/edit.jade",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1212,
+								1212
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Jade/Syntaxes/Jade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "alacarte.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 25741,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -1016,6 +1129,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"edi",
+				"jade/edit.jade"
+			],
+			[
+				"ala",
+				"alacarte.json"
+			],
 			[
 				"gulp",
 				"gulpfile.coffee"
