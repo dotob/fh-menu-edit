@@ -1,0 +1,4 @@
+stop fh-menu-editor
+git pull
+gulp dev
+start fh-menu-editor
