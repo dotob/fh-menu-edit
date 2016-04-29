@@ -15,19 +15,19 @@
           "name": "Riesenscampi kross im Ofen gebraten",
           "price": "14,50",
           "description": "auf Räucherlachsbett",
-          "hidePrice": false,
+          "hidePrice": true,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Hühnersuppe mit Einlage",
           "price": "6,50",
-          "hide": false
+          "hide": true
         },
         {
           "name": "Klare Ochsenschwanzsuppe",
-          "price": "7",
+          "price": "7,50",
           "description": "mit Sherry",
           "hidePrice": false,
           "hide": false,
@@ -37,10 +37,10 @@
         {
           "name": "Hausgeräucherter Lachs",
           "description": "mit Honig-Dillvinaigrette",
-          "price": "13,50",
+          "price": "12",
           "hidePrice": false,
-          "special": true,
-          "hide": true
+          "special": false,
+          "hide": false
         },
         {
           "name": "6 Austern \"Creuses d'Oléron\" frisch aus unserem Salzwasserbecken",
@@ -48,7 +48,7 @@
           "description": "",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -56,8 +56,8 @@
           "price": "11",
           "description": "mit Honig-Dillvinaigrette",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -66,7 +66,7 @@
           "description": "auf sommerlichem Salat",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -74,8 +74,8 @@
           "price": "11",
           "description": "mit Preiselbeeren und Zwiebelmarmelade",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -92,8 +92,8 @@
           "price": "14",
           "description": "",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -110,8 +110,8 @@
           "price": "11",
           "description": "",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -120,7 +120,7 @@
           "description": "mit dünnen Scheiben würzigem Schweinefilet und Scampis",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -129,7 +129,7 @@
           "description": "dünne Scheiben gekochtes Kalbsfleisch mit Thunfischsauce und Kapern",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -137,22 +137,22 @@
           "price": "9,50",
           "description": "mit Rouille und Croutons",
           "hidePrice": false,
-          "hide": true,
+          "hide": false,
           "special": false,
           "vegetarian": false
         },
         {
           "name": "Froschschenkel kross in Knoblauchbutter gebraten",
-          "price": "16,5",
+          "price": "16,50",
           "description": "",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "1/2 Dz. Schnecken auf burgunder Art",
-          "price": "12",
+          "price": "12,50",
           "description": "",
           "hidePrice": false,
           "hide": false,
@@ -174,16 +174,16 @@
           "description": "mit  Morchel-Trüffel  beurre blanc",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Gebratene Jakobsmuscheln ",
-          "price": "13,50",
+          "price": "14,50",
           "description": "mit Gemüsegirlanden und beurre blanc",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -192,7 +192,7 @@
           "description": "mit gebratener Entenstopfleber, pochiertem Ei und Brioche",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -201,7 +201,7 @@
           "description": " mit sonnengetrockneten Tomaten, Oliven und Gran Padano ",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -210,16 +210,16 @@
           "description": "Tomaten und Paprika an Pestovinaigrette",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
-          "name": "Unsere Entenstopfleber mit Sauternesgelée",
+          "name": "Unsere Entenstopfleberpastete mit Sauternesgelée",
           "price": "12",
           "description": "",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -228,7 +228,7 @@
           "description": "gegrillt mit beurre blanc oder gedünstet in Whiskyrahm-als Vorspeise oder als Hauptgericht-Preis für 1/2 Hummer",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -237,7 +237,7 @@
           "description": "mit Hummersauce",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -245,7 +245,7 @@
           "price": "6,5",
           "description": "",
           "hidePrice": false,
-          "hide": true,
+          "hide": false,
           "special": false,
           "vegetarian": false
         },
@@ -255,7 +255,7 @@
           "description": "mit Entenstopfleberlamellen und Morchel-Trüffelcreme",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -264,7 +264,7 @@
           "description": "",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -272,7 +272,7 @@
           "price": "16,50",
           "description": "in Rahmsauce mit Cognac und Madeira flambiert",
           "hidePrice": false,
-          "hide": false,
+          "hide": true,
           "special": false,
           "vegetarian": false
         },
@@ -282,7 +282,7 @@
           "description": "mit sauce hollandaise",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -290,8 +290,8 @@
           "price": "12",
           "description": "mit Kalbsfonds-Morcheljus",
           "hidePrice": false,
-          "hide": true,
-          "special": true,
+          "hide": false,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -309,7 +309,7 @@
           "description": "an Puy-Linsencreme ",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -321,11 +321,31 @@
           "special": false
         },
         {
+          "name": "Parmesankroketten mit fritierter Petersilie",
+          "price": "11",
+          "hide": true
+        },
+        {
+          "name": "Grüner Spargel",
+          "description": "mit brauner Butter und Parmesanborken",
+          "price": "12",
+          "special": false,
+          "hidePrice": false,
+          "hide": true
+        },
+        {
+          "name": "Gebratene Scampis und Spargel auf Spinatsalat",
+          "price": "12",
+          "hide": false,
+          "special": false,
+          "hidePrice": false
+        },
+        {
           "name": "und vieles mehr...",
           "price": "0",
           "description": "",
           "hidePrice": true,
-          "hide": true,
+          "hide": false,
           "special": false,
           "vegetarian": false
         }
@@ -341,16 +361,16 @@
           "description": "mit fritierten Kartoffeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Lammfilet in Pestokruste",
-          "price": "24,50",
+          "price": "23",
           "description": "mit Rotweinsauce, Ratatouille und Gratin dauphinois",
           "hidePrice": false,
-          "hide": true,
-          "special": true,
+          "hide": false,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -359,7 +379,7 @@
           "description": "mit Rotweinsauce, Ratatouille und Gratin dauphinois",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -368,7 +388,7 @@
           "description": "mit frischem Lachs und Orangenbutter,Salzkartoffel",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -376,23 +396,23 @@
           "price": "24,50",
           "description": "auf flämische Art oder mit sauce hollandaise, Salzkartoffel",
           "hidePrice": false,
-          "hide": true,
-          "special": true,
-          "vegetarian": false
-        },
-        {
-          "name": "Spargel mit gekochtem Knochenschinken",
-          "price": "22,50",
-          "description": "auf flämische Art oder mit sauce hollandaise und  Salzkartoffeln",
-          "hidePrice": false,
-          "hide": true,
+          "hide": false,
           "special": false,
           "vegetarian": false
         },
         {
-          "name": "Rumpsteak mit der echten  sauce Béarnaise ",
-          "price": "22,50",
-          "description": "oder mit Senfsauce, Pommes frites und Salat",
+          "name": "Spargel mit gekochtem Knochenschinken",
+          "price": "23",
+          "description": "auf flämische Art oder mit sauce hollandaise und  Salzkartoffeln",
+          "hidePrice": false,
+          "hide": false,
+          "special": false,
+          "vegetarian": false
+        },
+        {
+          "name": "Rumpsteak mit Senfkorn-Rahmsauce",
+          "price": "23,50",
+          "description": "Pommes frites und Salat",
           "hidePrice": false,
           "hide": false,
           "special": false,
@@ -404,7 +424,7 @@
           "description": "mit Lamellen von der Entenstopfleber und Morchel -Trüffelcreme",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -431,7 +451,7 @@
           "description": "mit feinen Gemüsen, Gratin dauphinois und Rotweinsauce, ab 2 Personen, je Person",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -440,12 +460,12 @@
           "description": " knusprig in Butter gebraten, Blattspinat und Salzkartoffel",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Forelle blau oder Müllerin Art",
-          "price": "17",
+          "price": "18",
           "description": "frisch aus unserem Becken, bunter Salat, zerlassene Butter, Salzkatoffel",
           "hidePrice": false,
           "hide": false,
@@ -463,11 +483,11 @@
         },
         {
           "name": "Kalbsnierchen auf Lütticher Art",
-          "price": "20,50",
+          "price": "22,50",
           "description": "in Wacholdersauce mit Speckbohnenröllchen und Pellkartoffeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -476,7 +496,7 @@
           "description": "Entenconfit, geräucherter Entenbrust und Entenstopfleber ",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -485,7 +505,7 @@
           "description": "",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -503,7 +523,7 @@
           "description": "mit Pommes frites und gemischtem Salat",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -512,7 +532,7 @@
           "description": "Pommes frites und feinen Gemüsen, für Sie am Tisch tranchiert,ab 2 Pesrsonen, pro Person",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -521,7 +541,7 @@
           "description": "kräftiger Rotwein-Kalbsfondssauce und gegrillten Schalotten",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -548,7 +568,7 @@
           "description": "in Lauchrahm mit Stampfkartoffeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -556,8 +576,8 @@
           "price": "18,50",
           "description": "mit Mandeln, Apfelkompott und Kartoffelkroketten",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -565,8 +585,8 @@
           "price": "23,50",
           "description": "mit Wirsing und Stampfkartoffeln",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -574,8 +594,8 @@
           "price": "23,50",
           "description": " Preiselbeerkörbchen und hausgemachten Kartoffelkroketten",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -584,7 +604,7 @@
           "description": "Preiselbeerkörbchen und hausgemachten Kartoffelkroketten",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -593,7 +613,7 @@
           "description": "Rotkohl und Kartoffelkroketten",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -602,7 +622,7 @@
           "description": "reichhaltige Fischsuppe aus Marseille",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -611,16 +631,16 @@
           "description": "mit Chicorée und Stampfkartoffeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Osso bucco (Kalbshaxe auf italienische Art)",
-          "price": "19,50",
+          "price": "21,50",
           "description": "in Tomatensauce mit  Gemüsewürfeln und frischen Nudeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -628,7 +648,7 @@
           "price": "22,50",
           "description": "Pommes frites und Blattspinat",
           "hidePrice": false,
-          "hide": false,
+          "hide": true,
           "special": false,
           "vegetarian": false
         },
@@ -646,8 +666,8 @@
           "price": "23,50",
           "description": "",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -656,7 +676,7 @@
           "description": "mit Kartoffel -Gemüsekuchen",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -665,12 +685,12 @@
           "description": "in schaumiger Rosmarinbutter mit Frühlingsgemüsen und Pellkartoffeln",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Schnitzel nach Wiener Art",
-          "price": "14",
+          "price": "14,50",
           "description": "Pommes frites und gemischter Salat",
           "hidePrice": false,
           "hide": false,
@@ -682,17 +702,17 @@
           "price": "50",
           "description": "für sie am Tisch zerlegt, für 2 Personen",
           "hidePrice": false,
-          "hide": false,
-          "special": true,
+          "hide": true,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Gebratener Thunfisch ",
-          "price": "24,50",
+          "price": "23,50",
           "description": "mit Safransauce, grünen Bohnen und Tagliatelli nero di seppia",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -710,7 +730,7 @@
           "description": "mir Reis",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -727,22 +747,68 @@
           "description": "gefüllter Zucchini und Parmessanrisotto",
           "price": "22,50",
           "hidePrice": false,
-          "special": true,
+          "special": false,
           "hide": true
         },
         {
           "name": "Gegrilltes Flapsteak (bavette d'aloyau)",
           "description": "mit Sauce bordelaiese, Pommes \"pont neuf\" und geschwenkten Kirschtomaten",
           "price": "22,50",
-          "special": true,
+          "special": false,
           "hide": true
         },
         {
           "name": "Angeräuchertes Schweinefilet \"Gärtnerinnen Art\"",
           "description": "mit leichter Senfsauce und Kartoffelpüree",
-          "special": true,
+          "special": false,
           "hide": true
         },
+        {
+          "name": "Hirschkalbmedaillon mit Steinpilzrisotto",
+          "description": "und Trüffelsauce",
+          "price": "23,50",
+          "hide": true,
+          "special": false
+        },
+        {
+          "name": "Steak vom Kalbsrücken  mit Paprikasabayon",
+          "description": "gegrillten  Gemüsen und Polenta",
+          "price": "22,50",
+          "special": false,
+          "hidePrice": false,
+          "hide": false
+        },
+        {
+          "name": "Gegrilltes Steak vom Kalbsrücken mit Xerèssauce",
+          "description": "Kartoffelgratin und überbackener Tomate",
+          "price": "23,50",
+          "hide": true,
+          "special": false
+        },
+        {
+          "name": "Kalbsrückensteak mit Champignonrahmsauce",
+          "description": "Pommes frites und Salat",
+          "price": "23"
+        },
+        {
+          "name": "Waterzooi  mit gebackenem Kabeljaurückensteak",
+          "price": "22,50",
+          "special": false,
+          "hidePrice": false,
+          "hide": true
+        },
+        {
+          "name": "Auf der Haut gebratenes Zanderfilet an Rosmarinbuttersauce",
+          "description": "Frühlingsgemüsen mit Spargel und Kartoffelpüree",
+          "price": "23"
+        },
+        {
+          "name": "Lammhaxe  \"Casablanca\" auf Kartoffelpüree",
+          "description": "mit Aprikosen und orientalischen Gewürzen geschmort",
+          "price": "19,50",
+          "hide": false
+        },
+        {},
         {}
       ]
     },
@@ -756,7 +822,7 @@
           "description": "(sizilianische Eistorte mit kandierten Früchten und Nüssen)",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -765,7 +831,7 @@
           "description": "am Tisch flambiert, ab zwei Personen, je Person",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -774,7 +840,7 @@
           "description": "",
           "hidePrice": false,
           "hide": false,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -827,17 +893,17 @@
           "price": "8,5",
           "description": "mit Erdbeeren, Marscapone-Limettensahne, Erdbeereis, Baiser und Himbeersauce",
           "hidePrice": false,
-          "hide": true,
-          "special": true,
+          "hide": false,
+          "special": false,
           "vegetarian": false
         },
         {
           "name": "Tarte Tatin mit Vanilleeis und einem Schuß Calvados",
-          "price": "9",
+          "price": "8,50",
           "description": "( warmer gestürzter Apfelkuchen )",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -846,7 +912,7 @@
           "description": "warmer Schokoladenkuchen mit flüssigem Kern",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -855,7 +921,7 @@
           "description": "",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -873,7 +939,7 @@
           "description": "",
           "hidePrice": false,
           "hide": true,
-          "special": true,
+          "special": false,
           "vegetarian": false
         },
         {
@@ -889,19 +955,19 @@
           "name": "Vanilleeis-Eierlikörcocktail",
           "price": "8,50",
           "hidePrice": false,
-          "hide": true,
-          "special": true
+          "hide": false,
+          "special": false
         },
         {
           "name": "Vanilleeis mit Haselnuß-Karamel",
           "price": "8,50",
-          "hide": false
+          "hide": true
         },
         {
           "name": "Limettensorbet mit Wodka",
           "price": "8,50",
           "hidePrice": false,
-          "hide": false
+          "hide": true
         },
         {
           "name": "Windbeutel mit Sahne,",
@@ -912,7 +978,28 @@
         {
           "name": "Apfelsorbet mit Calvados",
           "price": "8,50",
+          "hide": true
+        },
+        {
+          "name": "Vanilleeis mit karamelisierten Haselnüssen",
+          "price": "8,50",
+          "hidePrice": false,
+          "special": false,
           "hide": false
+        },
+        {
+          "name": "Rotweinbirne im eigenem Saft auf Mascarponewolke",
+          "price": "8,50",
+          "special": false,
+          "hidePrice": false,
+          "hide": false
+        },
+        {
+          "name": "Limettensorbet mitWodka",
+          "price": "8,50",
+          "hide": false,
+          "special": false,
+          "hidePrice": false
         }
       ]
     }
